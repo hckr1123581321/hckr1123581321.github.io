@@ -1,0 +1,44 @@
+body {
+	background-color: black;
+	color: red;
+	font-family: impact;
+}
+h3 {
+	font-size: 25px;
+	margin-bottom:5px;
+}
+h5 {
+	font-size: 20px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+h6 {
+	font-size: 12px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+input[type="text"]{
+	color: #00ff00;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+input[type="text"], textarea{
+	background-color: #cc66ff
+}
+input[type="password"]{
+	color: #00ff00;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+input[type="password"], textarea{
+	background-color: #cc66ff
+}
+input[type="button"]{
+	color: red;
+	background-color: yellow;
+	margin-top: 10px
+}
+body img{
+	height: 200px;
+	margin-top: 1px;
+}

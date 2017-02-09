@@ -1,0 +1,5 @@
+body {
+	background-color: yellow;
+	color: #ccff66;
+	font-family: cabin;
+}
